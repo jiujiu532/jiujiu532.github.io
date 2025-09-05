@@ -6,5 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-不要在我不在的时候开心
-——Super junior李东海 李赫宰
+
+## 久菜不闲
+欢迎来到我的博客![输入图片说明](/imgs/2025-09-05/RDzSnIY3u6NObyOM.png)
+
